@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as o,a0 as r}from"./chunks/framework.Bmhw_dvp.js";const p=JSON.parse('{"title":"我的技术作品集","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),d={name:"index.md"};function n(l,e,i,c,s,_){return t(),o("div",null,[...e[0]||(e[0]=[r("",5)])])}const m=a(d,[["render",n]]);export{p as __pageData,m as default};
